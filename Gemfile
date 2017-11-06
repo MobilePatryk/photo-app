@@ -10,6 +10,7 @@ end
 gem 'rails', '~> 5.1.4'
 # Use Puma as the app server
 gem 'devise'
+gem 'jquery-rails', '~> 4.3', '>= 4.3.1'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'puma', '~> 3.7'
